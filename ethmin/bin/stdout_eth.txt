@@ -1,0 +1,7 @@
+
+
+ethminer 0.18.0
+Build: linux/release/gnu
+
+
+
